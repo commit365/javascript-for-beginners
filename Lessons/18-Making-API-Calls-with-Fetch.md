@@ -136,3 +136,5 @@ fetch("https://jsonplaceholder.typicode.com/posts/999") // Non-existent post
 ## Conclusion
 
 In this lesson, you learned how to use the `fetch` API to make HTTP requests, handle JSON responses, and manage errors effectively. The `fetch` API provides a modern way to interact with APIs and is essential for building dynamic web applications that communicate with servers. In the next lesson, we will explore how to work with local storage and session storage to manage data in the browser!
+
+[Next: 19-Error-Handling](./19-Error-Handling.md)

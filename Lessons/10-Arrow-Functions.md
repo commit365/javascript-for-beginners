@@ -103,3 +103,5 @@ console.log(obj.getValue()); // Outputs: undefined
 ## Conclusion
 
 In this lesson, you learned about arrow functions, their concise syntax, and how they differ from regular functions, particularly in terms of `this` context. Arrow functions provide a powerful way to write cleaner and more readable code, especially when working with callbacks and higher-order functions. In the next lesson, we will explore more advanced concepts in JavaScript, including working with objects and arrays in greater depth!
+
+[Next: 11-Scope-and-Hoisting](./11-Scope-and-Hoisting.md)

@@ -78,3 +78,5 @@ To effectively develop and test your JavaScript applications, it’s important t
 ## Conclusion
 
 In this lesson, you installed Visual Studio Code, created a basic project structure, and set up a local development environment to start coding in JavaScript. You also learned how to use browser tools to inspect and debug your code. In the next lesson, we will write your first JavaScript program and explore the console further!
+
+[Next: 03-Your-First-JavaScript-Program](./03-Your-First-JavaScript-Program.md)

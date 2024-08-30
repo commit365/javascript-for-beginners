@@ -136,3 +136,5 @@ document.addEventListener("DOMContentLoaded", function() {
 ## Conclusion
 
 In this lesson, you built a simple weather application that fetches real-time weather data from a public API. You learned how to handle user input, make API calls using the `fetch` API, and dynamically update the UI with JavaScript. This project demonstrates how to apply various JavaScript concepts to create a functional web application. In the next lesson, we will explore more advanced topics in JavaScript, including working with asynchronous programming and additional API integrations!
+
+[Next: 28-Version-Control-with-Git](./28-Version-Control-with-Git.md)

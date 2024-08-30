@@ -120,3 +120,5 @@ numbers.forEach(function(number) {
 ## Conclusion
 
 In this lesson, you learned how to define functions using function declarations and function expressions, as well as the concepts of parameters and return values. You also explored anonymous functions and their common usage in callbacks. Understanding functions is crucial for writing modular and reusable code in JavaScript. In the next lesson, we will dive into arrow functions, a more concise way to write functions in JavaScript!
+
+[Next: 10-Arrow-Functions](./10-Arrow-Functions.md)

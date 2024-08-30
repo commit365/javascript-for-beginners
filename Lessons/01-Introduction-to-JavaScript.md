@@ -29,3 +29,5 @@ JavaScript has several unique characteristics that differentiate it from other p
 ## Conclusion
 
 In this lesson, we explored the fundamental role of JavaScript in web development and highlighted its unique characteristics compared to other programming languages. Understanding these concepts is essential as you embark on your journey to mastering JavaScript. In the next lesson, we will set up your development environment to start coding!
+
+[Next: 02-Setting-Up-Your-Environment](./02-Setting-Up-Your-Environment.md)

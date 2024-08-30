@@ -107,3 +107,5 @@ const sayHello = function() {
 ## Conclusion
 
 In this lesson, you learned about the different types of scope in JavaScript: global, local, and block scope. You also explored the concept of hoisting, which allows variable and function declarations to be accessed before they are defined in the code. Understanding scope and hoisting is essential for managing variable accessibility and avoiding common pitfalls in JavaScript. In the next lesson, we will dive into objects and arrays, which are key data structures in JavaScript!
+
+[Next: 12-The-Document-Object-Model-DOM](./12-The-Document-Object-Model-DOM.md)

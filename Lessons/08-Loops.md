@@ -142,3 +142,5 @@ city: New York
 ## Conclusion
 
 In this lesson, you learned about the three main types of loops in JavaScript: `for`, `while`, and `do...while`. You also saw practical examples of how to iterate through arrays and objects using these loops. Understanding loops is crucial for automating repetitive tasks and processing collections of data efficiently. In the next lesson, we will explore functions in JavaScript, which allow you to encapsulate reusable blocks of code!
+
+[Next: 09-Functions-Declarations-and-Expressions](./09-Functions-Declarations-and-Expressions.md)

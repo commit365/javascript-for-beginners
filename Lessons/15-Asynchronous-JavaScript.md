@@ -100,3 +100,5 @@ fetchData((data) => {
 ## Conclusion
 
 In this lesson, you learned about the asynchronous nature of JavaScript and the event loop, which allows JavaScript to handle multiple operations without blocking the main thread. You also explored the concept of callbacks, which are essential for managing asynchronous tasks. Understanding asynchronous programming is crucial for building responsive and efficient web applications. In the next lesson, we will dive deeper into Promises and async/await, which provide more powerful ways to handle asynchronous operations!
+
+[Next: 16-Using-Promises](./16-Using-Promises.md)

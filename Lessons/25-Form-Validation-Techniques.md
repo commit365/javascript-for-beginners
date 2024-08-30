@@ -164,3 +164,5 @@ document.addEventListener("DOMContentLoaded", function() {
 ## Conclusion
 
 In this lesson, you learned how to implement form validation techniques using JavaScript. You created a user registration form that validates input fields, provides feedback on errors, and displays a success message upon successful submission. Proper form validation is crucial for enhancing user experience and ensuring data integrity in web applications. In the next lesson, we will explore more advanced topics in JavaScript, including working with APIs and asynchronous programming!
+
+[Next: 26-User-Experience-Enhancements](./26-User-Experience-Enhancements.md)

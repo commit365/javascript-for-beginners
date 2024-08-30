@@ -116,3 +116,5 @@ While type coercion can be convenient, it can also lead to unexpected results. I
 ## Conclusion
 
 In this lesson, you learned about basic operators in JavaScript, including arithmetic, comparison, and logical operators. You also explored operator precedence and type coercion, which are essential concepts for writing effective JavaScript code. Understanding these operators will help you perform calculations, make comparisons, and control the flow of your programs. In the next lesson, we will dive into control structures, including conditional statements and loops!
+
+[Next: 07-Conditional-Statements](./07-Conditional-Statements.md)

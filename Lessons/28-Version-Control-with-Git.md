@@ -144,3 +144,5 @@ When collaborating on projects, you will often work with remote repositories hos
 ## Conclusion
 
 In this lesson, you learned about Git and its importance in version control for software development. You explored basic Git commands for tracking changes, managing branches, and collaborating on projects. Understanding Git is essential for working effectively in teams and maintaining a clean history of your code changes. In the next lesson, we will explore more advanced Git features and workflows to enhance your development process!
+
+[Next: 29-Clean-Code-Principles](./29-Clean-Code-Principles.md)

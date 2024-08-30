@@ -99,3 +99,5 @@ The console is a powerful tool for debugging and logging information while devel
 ## Conclusion
 
 In this lesson, you successfully wrote and ran your first JavaScript program, "Hello, World!" You also learned how to use the console for debugging and logging, which is an essential skill for any developer. In the next lesson, we will explore variables and data types in JavaScript!
+
+[Next: 04-Variables-and-Data-Types](./04-Variables-and-Data-Types.md)

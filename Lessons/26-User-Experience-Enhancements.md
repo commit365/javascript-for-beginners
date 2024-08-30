@@ -131,3 +131,5 @@ button:active {
 ## Conclusion
 
 In this lesson, you learned how to enhance user experience by implementing animations and transitions using CSS and JavaScript. You also explored how to improve interactivity through event-driven programming. By combining these techniques, you can create engaging and responsive web applications that provide a positive user experience. In the next lesson, we will delve into more advanced topics in JavaScript, including working with APIs and asynchronous programming!
+
+[Next: 27-Creating-a-Weather-App](./27-Creating-a-Weather-App.md)

@@ -130,3 +130,5 @@ button.addEventListener("click", function() {
 ## Conclusion
 
 In this lesson, you learned about the Document Object Model (DOM) and its structure, including the different types of nodes that make up the DOM tree. You also explored how JavaScript interacts with HTML and CSS by selecting elements, modifying content and styles, adding and removing elements, and handling events. Understanding the DOM is essential for creating dynamic and interactive web applications. In the next lesson, we will dive into more advanced DOM manipulation techniques and explore how to build interactive features!
+
+[Next: 13-Selecting-and-Modifying-DOM-Elements](./13-Selecting-and-Modifying-DOM-Elements.md)

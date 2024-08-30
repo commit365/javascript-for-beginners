@@ -136,3 +136,5 @@ console.log(dayName); // Outputs: Wednesday
 ## Conclusion
 
 In this lesson, you learned how to use conditional statements in JavaScript, including `if`, `else if`, and `else` statements for branching logic. You also explored the `switch` statement for handling multiple conditions in a more organized way. Mastering these conditional statements is essential for controlling the flow of your programs based on different conditions. In the next lesson, we will dive into loops, which allow you to execute code repeatedly!
+
+[Next: 08-Loops](./08-Loops.md)

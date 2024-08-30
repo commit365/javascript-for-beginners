@@ -180,3 +180,5 @@ project/
 ## Conclusion
 
 In this lesson, you learned about clean code principles that promote readability and maintainability. You explored best practices for naming, function size, formatting, and avoiding magic numbers. Additionally, you understood the importance of documentation and comments, as well as effective code organization techniques. By applying these principles, you can create high-quality code that is easier to understand, maintain, and collaborate on. In the next lesson, we will explore more advanced topics in software development, including design patterns and best practices!
+
+[Next: 30-Final-Project-Showcase-Your-Skills](./30-Final-Project-Showcase-Your-Skills.md)

@@ -146,3 +146,5 @@ console.log(longFruits); // Outputs: ["Banana", "Cherry"]
 ## Conclusion
 
 In this lesson, you learned how to create and access objects and arrays in JavaScript. You also explored properties and methods of objects, as well as common array methods that allow you to manipulate and work with data effectively. Mastering these concepts is crucial for organizing and managing data in your applications. In the next lesson, we will dive into basic operators used in JavaScript!
+
+[Next: 06-Basic-Operators](./06-Basic-Operators.md)

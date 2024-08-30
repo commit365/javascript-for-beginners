@@ -134,3 +134,5 @@ You can remove an element from the DOM using the `remove()` method.
 ## Conclusion
 
 In this lesson, you learned how to select DOM elements using `getElementById`, `querySelector`, and `querySelectorAll`. You also explored how to modify the content, styles, and attributes of these elements dynamically. Understanding how to manipulate the DOM is essential for creating interactive web applications. In the next lesson, we will dive into event handling, which allows you to respond to user interactions on your web pages!
+
+[Next: 14-Event-Handling](./14-Event-Handling.md)

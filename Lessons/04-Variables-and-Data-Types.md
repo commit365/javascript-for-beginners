@@ -98,3 +98,5 @@ console.log(notAssigned); // Outputs: undefined
 ## Conclusion
 
 In this lesson, you learned how to declare variables using `var`, `let`, and `const`, and understood their differences in scope and hoisting behavior. You also explored the five main primitive data types in JavaScript: strings, numbers, booleans, null, and undefined. These concepts are fundamental to writing effective JavaScript code. In the next lesson, we will dive into objects and arrays, which are essential for organizing and managing data!
+
+[Next: 05-Objects-and-Arrays](./05-Objects-and-Arrays.md)

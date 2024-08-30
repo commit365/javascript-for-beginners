@@ -149,4 +149,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Conclusion
 
-In this lesson, you built a simple To-Do List application using JavaScript that includes basic CRUD operations and uses local storage for persistence. This project demonstrates how to apply various concepts learned throughout these lessons into practical use cases. By organizing your code into logical parts and using appropriate data structures like arrays for storing tasks, you can create functional web applications efficiently. In the next lesson, we will explore more advanced topics in JavaScript
+In this lesson, you built a simple To-Do List application using JavaScript that includes basic CRUD operations and uses local storage for persistence. This project demonstrates how to apply various concepts learned throughout these lessons into practical use cases. By organizing your code into logical parts and using appropriate data structures like arrays for storing tasks, you can create functional web applications efficiently. In the next lesson, we will explore more advanced topics in JavaScript.
+
+[Next: 25-Form-Validation-Techniques](./25-Form-Validation-Techniques.md)

@@ -109,3 +109,5 @@ console.log(multiply(2, 1, 2, 3)); // Outputs: [2, 4, 6]
 ## Conclusion
 
 In this lesson, you learned about the spread operator and how it can be used to copy and merge arrays and objects. You also explored the rest operator and how it allows you to handle variable numbers of function arguments using rest parameters. These features enhance your ability to work with data structures and simplify your code, making it more readable and maintainable. In the next lesson, we will explore advanced topics in JavaScript, including modules and how to structure your code for better organization!
+
+[Next: 23-Modules-in-JavaScript](./23-Modules-in-JavaScript.md)
